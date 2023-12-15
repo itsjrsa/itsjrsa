@@ -1,4 +1,16 @@
-### Hi there 👋
+<h1 align="left">Hi there, I'm Ricardo! 👋</h1>
+
+<h4 align="left">Currently reading papers and fighting bugs @ <a href="https://www.inesctec.pt/">INESC TEC</a></h4> 
+
+
+<h3>More info ⬇️</h4> 
+
+🐢 **Personal [Website](https://www.itsjrsa.com)**
+
+👔 **LinkedIn [Profile](https://www.linkedin.com/in/itsjrsa)**
+
+📑 **[*Curriculum Vitae*](https://raw.githubusercontent.com/itsjrsa/cv/master/cv.pdf)**
+
 
 <!--
 **itsjrsa/itsjrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
